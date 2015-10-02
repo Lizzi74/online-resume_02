@@ -1,0 +1,12 @@
+body	{
+
+	background-color: white;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-width: px5;
+	border-bottom-width: px5;
+}
+
+img {
+	float: right;
+}
